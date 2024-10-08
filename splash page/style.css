@@ -1,0 +1,11 @@
+body{
+    margin:0;
+
+}
+#splash{
+    background: #000000 url(D:\20 projects part4\splash page\images\load.png) no-repeat center center;
+    width:100%;
+    height:100vh;
+    position:fixed;
+    z-index:100;
+}
